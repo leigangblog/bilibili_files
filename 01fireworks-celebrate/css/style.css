@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: black;
+}
+canvas {
+  position: absolute;
+}
+a{
+  font-size: medium;
+  display: inline;
+  bottom: 5px;
+  justify-content: center;
+
+
+}
