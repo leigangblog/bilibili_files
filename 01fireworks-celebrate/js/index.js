@@ -109,7 +109,7 @@ herf2 = "Github地址：https://github.com/leigangblog/bilibili_files"
 console.log(tip1);
 console.log(herf1);
 console.log(tip2);
-console.log(herf2)
+console.log(herf2);
 // INITIALIZATION
 const [c1, c2, c3] = document.querySelectorAll('canvas');
 const [ctx1, ctx2, ctx3] = [c1, c2, c3].map(c => c.getContext('2d'));
