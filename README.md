@@ -3,15 +3,19 @@
 * 项目地址：[https://github.com/leigangblog/bilibili_files](https://github.com/leigangblog/bilibili_files)
 
 ## 01fireworks-celebrate
-点击查看demo：[demo](https://leigangblog.github.io/bilibili_files/01fireworks-celebrate/)
+点击查看demo：[demo](https://leigangblog.github.io/bilibili_files/01fireworks-celebrate/index.html)
 
 实现效果：
 ![](https://gitee.com/leigangblog/images/raw/master/static/20200601111723.png)
 
 
 > 记得F12有惊喜
-
-
+```js
+console.log(tip1);
+console.log(herf1);
+console.log(tip2);
+console.log(herf2);
+```
 # 联系作者
 * 作者github：[https://github.com/leigangblog](https://github.com/leigangblog)
 * 作者博客：[https://leigangblog.github.io](https://leigangblog.github.io)
